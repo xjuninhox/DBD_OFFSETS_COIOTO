@@ -1,17 +1,1 @@
-{
-  "credit": {
-    "dumper_link": "https://github.com/Encryqed/Dumper-7",
-    "dumper_used": "Dumper-7"
-  },
-  "data": [
-    ["Dumper", 7],
-    ["OFFSET_GOBJECTS", 220461792],
-    ["OFFSET_APPENDSTRING", 23249488],
-    ["OFFSET_GNAMES", 207171288],
-    ["OFFSET_GWORLD", 205217408],
-    ["OFFSET_PROCESSEVENT", 22242224],
-    ["INDEX_PROCESSEVENT", 79]
-  ],
-  "updated_at": "1787371966309",
-  "version": 10202
-}
+{"credit":{"dumper_link":"https://github.com/Encryqed/Dumper-7","dumper_used":"Dumper-7"},"data":[["Dumper",7],["OFFSET_GOBJECTS",204814368],["OFFSET_APPENDSTRING",22926368],["OFFSET_GNAMES",206096288],["OFFSET_GWORLD",206685096],["OFFSET_PROCESSEVENT",24980848],["INDEX_PROCESSEVENT",76]],"updated_at":"1787706003849","version":10202}
